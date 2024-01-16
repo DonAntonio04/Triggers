@@ -1,0 +1,15 @@
+C:\Users\cd18\source\repos\Triggers_JAMB\Triggers_JAMB\bin\Debug\netstandard2.0\Triggers_JAMB.deps.json
+C:\Users\cd18\source\repos\Triggers_JAMB\Triggers_JAMB\bin\Debug\netstandard2.0\Triggers_JAMB.dll
+C:\Users\cd18\source\repos\Triggers_JAMB\Triggers_JAMB\bin\Debug\netstandard2.0\Triggers_JAMB.pdb
+C:\Users\cd18\source\repos\Triggers_JAMB\Triggers_JAMB\obj\Debug\netstandard2.0\Triggers_JAMB.csproj.AssemblyReference.cache
+C:\Users\cd18\source\repos\Triggers_JAMB\Triggers_JAMB\obj\Debug\netstandard2.0\Triggers_JAMB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd18\source\repos\Triggers_JAMB\Triggers_JAMB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd18\source\repos\Triggers_JAMB\Triggers_JAMB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd18\source\repos\Triggers_JAMB\Triggers_JAMB\obj\Debug\netstandard2.0\Triggers_JAMB.AssemblyInfoInputs.cache
+C:\Users\cd18\source\repos\Triggers_JAMB\Triggers_JAMB\obj\Debug\netstandard2.0\Triggers_JAMB.AssemblyInfo.cs
+C:\Users\cd18\source\repos\Triggers_JAMB\Triggers_JAMB\obj\Debug\netstandard2.0\Triggers_JAMB.csproj.CoreCompileInputs.cache
+C:\Users\cd18\source\repos\Triggers_JAMB\Triggers_JAMB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd18\source\repos\Triggers_JAMB\Triggers_JAMB\obj\Debug\netstandard2.0\Triggers_JAMB.dll
+C:\Users\cd18\source\repos\Triggers_JAMB\Triggers_JAMB\obj\Debug\netstandard2.0\refint\Triggers_JAMB.dll
+C:\Users\cd18\source\repos\Triggers_JAMB\Triggers_JAMB\obj\Debug\netstandard2.0\Triggers_JAMB.pdb
+C:\Users\cd18\source\repos\Triggers_JAMB\Triggers_JAMB\obj\Debug\netstandard2.0\ref\Triggers_JAMB.dll

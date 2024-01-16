@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Triggers_JAMB.MainPage">
+
+    <StackLayout>
+        <Entry Placeholder="enter name">
+            <Entry.Triggers>
+                <Trigger TargetType="Entry"
+                 Property="IsFocused" Value="True">
+                    <Setter Property="BackgroundColor" Value="Red" />
+                    <Setter Property="TextColor" Value="White"/>
+                    <!-- multiple Setters elements are allowed -->
+                </Trigger>
+            </Entry.Triggers>
+        </Entry>
+        <Label Text="Hola">
+            <Label.Triggers>
+                <Trigger TargetType="Label"
+                         Property="IsFocused" Value="True">
+                    <Setter Property="Background" Value="Blue"></Setter>
+                    <Setter Property="TextColor" Value="Red"></Setter>
+                </Trigger>
+            </Label.Triggers>
+        </Label>
+        <CheckBox Color="Black">
+            <CheckBox.Triggers>
+                <Trigger TargetType="CheckBox" Property="IsChecked" Value="True">
+                    <Setter Property="Color" Value="Green"></Setter>
+                </Trigger>
+            </CheckBox.Triggers>
+        </CheckBox>
+        <RadioButton>
+            <RadioButton.Triggers>
+                <Trigger TargetType="RadioButton" Property="IsChecked" Value="True">
+                    <Setter Property="BackgroundColor" Value="Blue"></Setter>
+                </Trigger>
+            </RadioButton.Triggers>
+        </RadioButton>
+    </StackLayout>
+
+</ContentPage>
